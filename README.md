@@ -72,7 +72,7 @@ Evaluation metrics: Classification report (precision, recall, F1-score, accuracy
 
 Feature importance visualizations for Random Forest models.
 
-Code Overview
+Code Overview :
 
 Data Loading and Preprocessing
 
@@ -110,7 +110,7 @@ Classification report and confusion matrix
 
 Feature importance plots
 
-Results
+Results :
 
 Sailing ships (1849) show lower speeds and stronger dependence on wind direction.
 
@@ -120,7 +120,7 @@ Both Random Forest and SVC models successfully classify ships with high accuracy
 
 Including wind correlation improves model performance, highlighting the effect of environmental conditions on sailing ships.
 
-Conclusion
+Conclusion :
 
 The experiments demonstrate that historical ship data can reliably distinguish sailing vs powered vessels using speed and wind-related features.
 
@@ -130,7 +130,7 @@ Machine learning classifiers achieve strong performance, confirming the predicti
 
 Feature importance analysis confirms that relative speed and wind correlations are key indicators of propulsion type.
 
-Dependencies
+Dependencies :
 
 Python 3.x
 
@@ -146,7 +146,7 @@ IMMA package (!pip install git+https://github.com/philip-brohan/pyIMMA.git)
 
 Google Colab for running large datasets and accessing Google Drive
 
-How to Run
+How to Run :
 
 Mount Google Drive containing ICOADS IMMA files.
 
