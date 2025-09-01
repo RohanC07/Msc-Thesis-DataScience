@@ -3,7 +3,7 @@ Project Overview
 This project explores the identification of sailing ships (1849) versus powered ships (1949) using historical ICOADS (International Comprehensive Ocean-Atmosphere Data Set) observations.
 We analyze ship speed and its relationship with wind direction and speed to determine whether a vessel is wind-driven (sailing) or mechanically powered. Machine learning models (Random Forest and SVC) are used to classify ships based on derived features.
 
-Data Source
+Data Source :
 
 ICOADS Dataset: International Comprehensive Ocean-Atmosphere Data Set
 
