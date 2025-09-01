@@ -34,18 +34,7 @@ Ship Speed and Heading: Calculated from consecutive latitude/longitude positions
 
 Relative Speed:
 
-relative speed
-=
-ship speed
-×
-cos
-⁡
-(
-ship heading
-−
-wind direction
-)
-relative speed=ship speed×cos(ship heading−wind direction)
+relative speed = ship speed × cos(ship heading − wind direction)
 
 Filter out unrealistic speeds (>40 km/h) and invalid time differences.
 
